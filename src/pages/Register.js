@@ -2,9 +2,7 @@ import react from "react";
 
 const Register = () => {
   return <>
-  <head>
-      <link rel = "stylesheet" href = "./App.css"
-  </head>
+  
   <div id="login-box">
   <div class="left">
     <h1>Sign up!</h1>
