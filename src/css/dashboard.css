@@ -1,0 +1,34 @@
+.dashboard-nav {
+  width: 100vw;
+  height: 70px;
+  background-color: gray;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0px;
+}
+.profile-pic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.displayName {
+  color: black;
+  font-size: 18px;
+  padding-right: 910px;
+}
+.nav-details {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.btn-logout {
+  background-color: red;
+  width: 70px;
+  height: 30px;
+  border-radius: 4px;
+  margin-left: 25px;
+  margin-right: 20px;
+}
